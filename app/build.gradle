@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.shop"
+        applicationId "com.fly.ScoreK"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1

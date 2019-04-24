@@ -1,4 +1,4 @@
-package com.example.shop
+package com.fly.ScoreK
 
 import org.junit.Test
 

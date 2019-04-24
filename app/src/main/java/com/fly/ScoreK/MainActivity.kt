@@ -1,4 +1,4 @@
-package com.example.shop
+package com.fly.ScoreK
 
 import android.content.Context
 import android.os.Bundle

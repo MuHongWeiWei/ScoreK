@@ -1,4 +1,4 @@
-package com.example.shop
+package com.fly.ScoreK
 
 class Score(s: String){
     var value: Int = 0

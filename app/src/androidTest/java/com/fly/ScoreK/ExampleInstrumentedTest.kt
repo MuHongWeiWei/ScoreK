@@ -1,4 +1,4 @@
-package com.example.shop
+package com.fly.ScoreK
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
