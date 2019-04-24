@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Shop</string>
+    <string name="app_name">ScoreCalculate</string>
+    <string name="please_enter_english_score">Please enter English score</string>
+    <string name="please_enter_math_score">Please enter Math score</string>
+    <string name="average">average</string>
 </resources>

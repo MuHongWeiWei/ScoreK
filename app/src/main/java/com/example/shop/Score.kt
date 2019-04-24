@@ -9,19 +9,7 @@ class Score(s: String) {
                 throw ScoreException()
             }
         } catch (e: NumberFormatException) {
-            throw ScoreException()
+            throw ScoreFormatException()
         }
-    }
-}
-
-fun main() {
-    try {
-        print("請輸入數學成績")
-        val math = Score(readLine()!!)
-        print("請輸入英文成績")
-        val english = Score(readLine()!!)
-        print((math.value + english.value) /2)
-    } catch (e: ScoreException) {
-        print(e.message)
     }
 }

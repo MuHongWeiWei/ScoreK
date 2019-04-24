@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">成績計算機</string>
+    <string name="please_enter_english_score">請輸入英文成績</string>
+    <string name="please_enter_math_score">請輸入數學成績</string>
+    <string name="average">計算平均</string>
+</resources>
