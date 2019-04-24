@@ -1,6 +1,6 @@
 package com.example.shop
 
-class Score(s: String) {
+class Score(s: String){
     var value: Int = 0
     init {
         try {
